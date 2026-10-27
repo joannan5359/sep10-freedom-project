@@ -1,15 +1,16 @@
 # Content
-Topic: **X**
+Topic: Forensics
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Crime scene investigators use technology to collect, examine, and analyze evidence.
+* Software helps investigators analyze DNA, compare fingerprints, examine digital evidence, and organize case information.
+
 
 ## Part A: existing technology
 
 ##### Software
-* Tech
-  * Detail
+* 1. Codis
+  * CODIS compares DNA profiles to help investigators find possible matches between crime scene evidence and DNA databases.
   * [image text](image URL)
 
 ##### Hardware
