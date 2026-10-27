@@ -9,9 +9,14 @@ Topic: Forensics
 ## Part A: existing technology
 
 ##### Software
-* 1. Codis
+1. Codis
   * CODIS compares DNA profiles to help investigators find possible matches between crime scene evidence and DNA databases.
-  * [image text](image URL)
+<a href=“https://www.fbi.gov/how-we-can-help-you/dna-fingerprint-act-of-2005-expungement-policy/codis-and-ndis-fact-sheet”>Codis software</a>
+
+2. Next Generation Identification (NGI)
+* NGI helps law enforcement search fingerprint records and other biometric information to identify people.
+<a href=“https://le.fbi.gov/science-and-lab/biometrics-and-fingerprints/biometrics/next-generation-identification-ngi?utm_source=chatgpt.com”>FBI NGI</a>
+
 
 ##### Hardware
 * Tech
