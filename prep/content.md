@@ -17,7 +17,7 @@ Topic: Forensics
 * NGI helps law enforcement search fingerprint records and other biometric information to identify people.
 * https://le.fbi.gov/science-and-lab/biometrics-and-fingerprints/biometrics/next-generation-identification-ngi
   
-  3. OSIRIS
+3. OSIRIS
 * OSIRIS is software that helps forensic laboratories review and analyze DNA data.
   
 4. GeneMapper ID
